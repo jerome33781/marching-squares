@@ -12,7 +12,7 @@ On peut ensuite dans un second temps créer une animation visualisant les lignes
 
 Dans une version plus complète, on pourrait plutôt que de dessiner une ligne de valeur constante, visualiser le champ dans tout l'espace par un gradient de couleur.
 
-Enfin, en utilisant cet algorithme, on peut vérifier l'approximation du champs constant dans un condensateur plan : on positionne un grand nombre d'electrons sur deux plaques et on trace le champs dans l'espace du condensateur. On peut alors vérifier sous quelles conditions, le modèle du condensateur plan est valable.
+Enfin, en utilisant cet algorithme, on peut vérifier l'approximation du champ constant dans un condensateur plan : on positionne un grand nombre d'electrons sur deux plaques et on trace le champ dans l'espace du condensateur. On peut alors vérifier sous quelles conditions le modèle du condensateur plan est valable.
 
 ![champs E cond](https://user-images.githubusercontent.com/83364235/173253274-9c4a6fba-f585-4f85-abcb-f8f4ac54dd3d.png)
 ![potentiel cond](https://user-images.githubusercontent.com/83364235/173253280-069c137e-aea3-490b-97f5-5301168579b1.png)
