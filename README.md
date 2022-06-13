@@ -1,7 +1,7 @@
 # Marching Square
 Visualisation d'équation cartesienne
 
-J'ai implémenté un algorithme de marching squares permettant visualiser une ligne de valeur constante pour une équation cartesienne.   
+J'ai implémenté un algorithme de marching squares permettant visualiser une ligne de valeur constante pour une équation cartesienne ou un champ scalaire.   
 Cette implémentation permet dans un premier temps de dessiner des fonctions à motif complexe, comme par exemple ici : tan(x^2 + y^2) = 1
 
 ![fct_joli2](https://user-images.githubusercontent.com/83364235/173252789-e3ed160c-9ad3-4be5-a8be-10973554fe09.png)
