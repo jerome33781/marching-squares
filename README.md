@@ -6,11 +6,11 @@ Cette implémentation permet dans un premier temps de dessiner des fonctions à 
 
 ![fct_joli2](https://user-images.githubusercontent.com/83364235/173252789-e3ed160c-9ad3-4be5-a8be-10973554fe09.png)
 
-On peut ensuite dans un second temps créer une animation visualisant les lignes de champ dans une cuve où évolueraient des particules. (ici le champ électrique généré par 3 électrons)
+On peut ensuite dans un second temps créer une animation visualisant les lignes de champ dans une cuve où évolueraient des particules. (ici le champ électrique généré par 3 ions de charges différentes)
 
 ![mygif2](https://user-images.githubusercontent.com/83364235/173252849-9b28b426-3f7f-4893-a548-c93e61176173.gif)
 
-Dans une version plus complète, on pourrait plutôt que de déssiner une ligne de valeur constante, visualiser le champ dans tout l'espace par un gradient de couleur.
+Dans une version plus complète, on pourrait plutôt que de dessiner une ligne de valeur constante, visualiser le champ dans tout l'espace par un gradient de couleur.
 
 Enfin, en utilisant cet algorithme, on peut vérifier l'approximation du champs constant dans un condensateur plan : on positionne un grand nombre d'electrons sur deux plaques et on trace le champs dans l'espace du condensateur. On peut alors vérifier sous quelles conditions, le modèle du condensateur plan est valable.
 
