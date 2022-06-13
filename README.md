@@ -6,7 +6,8 @@ Cette implémentation permet dans un premier temps de dessiner des fonctions à 
 
 ![fct_joli2](https://user-images.githubusercontent.com/83364235/173252789-e3ed160c-9ad3-4be5-a8be-10973554fe09.png)
 
-On peut ensuite dans un second temps créer une animation visualisant les lignes de champs constant dans une cuve où évolueraient des particules. 
+On peut ensuite dans un second temps créer une animation visualisant les lignes de champs constant dans une cuve où évolueraient des particules.  
+(ici le champ électrique généré par 3 électrons)
 
 ![mygif2](https://user-images.githubusercontent.com/83364235/173252849-9b28b426-3f7f-4893-a548-c93e61176173.gif)
 
