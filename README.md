@@ -16,3 +16,5 @@ Enfin, en utilisant cet algorithme, on peut vérifier l'approximation du champ c
 
 ![champs E cond](https://user-images.githubusercontent.com/83364235/173253274-9c4a6fba-f585-4f85-abcb-f8f4ac54dd3d.png)
 ![potentiel cond](https://user-images.githubusercontent.com/83364235/173253280-069c137e-aea3-490b-97f5-5301168579b1.png)
+
+On remarque ici que l'hypothèse pour une telle plaque est valable, le champ E est constant dans l'espace entre les plaques, et le potentiel est linéaire. On distingue les limites du condensateur plan sur les bords des plaques, le potentiel a une ligne isovaleur courbée est non plan, son gradient et donc E n'est donc pas seulement selon l'axe x. 
