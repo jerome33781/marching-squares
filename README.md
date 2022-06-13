@@ -1,4 +1,4 @@
-# Square-marching
+# Marching Square
 Visualisation d'équation cartesienne
 
 J'ai implémenté un algorithme de square marching permettant visualiser une ligne de valeur constante pour une éuqation cartesienne.   
